@@ -1,6 +1,6 @@
 # Hello!
 
-## Subtitle
+## Subtitle 1
 
 * One
 * Two _italic_
